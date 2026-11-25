@@ -1,0 +1,1 @@
+{"dependencies":{"@supabase/supabase-js":"^2.49.1","viem":"^2.23.0"},"description":"Adentra MCP server (preview) — onchain token verifier for AI agents","devDependencies":{"@types/node":"^22.10.2","@vercel/node":"^4.0.0","typescript":"^5.7.2"},"name":"adentra-mcp","private":true,"scripts":{"build":"tsc --noEmit","typecheck":"tsc --noEmit"},"type":"module","version":"1.0.4"}
